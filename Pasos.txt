@@ -1,0 +1,7 @@
+- Instalar desde linea comandos
+
+pip install pytesseract 
+
+instalar el .exe 
+https://github.com/UB-Mannheim/tesseract/wiki
+
